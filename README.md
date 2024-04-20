@@ -12,7 +12,7 @@ Welcome to my GitHub profile! Here's a little bit about me:
 
 - 💬 **Ask me about:** Dentistry, health informatics, or anything related to my areas of interest!
 
-- 📫 **How to reach me:** Feel free to reach out to me via email at vdavarap@mtu.edu or connect with me on LinkedIn [here](https://www.linkedin.com/in/varshitha-reddy).
+- 📫 **How to reach me:** Feel free to reach out to me via email at vdavarap@mtu.edu 
 
 - 😄 **Pronouns:** She/Her
 
