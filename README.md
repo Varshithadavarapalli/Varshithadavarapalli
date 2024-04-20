@@ -26,10 +26,36 @@ Welcome to my GitHub profile! Here's a little bit about me:
 
 The Public Health Disease Surveillance Architecture Development Project aims to establish a robust infrastructure for monitoring and analyzing disease trends, particularly focusing on syndromic surveillance. This project facilitates the creation of a comprehensive system to collect, process, and analyze health data from various sources, enabling timely detection and response to potential outbreaks.
 
-Repository: [Public Health Disease Surveillance Architecture Development Project](https://github.com/Varshithadavarapalli/Public-Health-Disease-Surveillance-Architecture-Development-Project)
+Repository: [Public Health Disease Surveillance Architecture Development Project](https://github.com/Varshithadavarapalli/Public-Health-Disease-Surveillance-Architecture-Development-Project) 
+
+## Technical Skills Gained:
+
+- **Virtualization:** Utilized virtual machines hosted on the MTU College of Computing Cluster for deployment.
+  
+- **Docker:** Containerized applications and services to ensure consistency across different environments and simplify deployment and management.
+  
+- **HAPI FHIR:** Implemented the HAPI FHIR server to facilitate interoperability and standardize the exchange of healthcare data.
+  
+- **Synthea:** Generated synthetic patient data using Synthea to simulate disease outbreaks and test the surveillance system's effectiveness.
+  
+- **OpenEMR:** Deployed OpenEMR for managing electronic medical records and facilitating data exchange between healthcare providers.
+  
+- **Postman:** Tested and interacted with the HAPI FHIR REST API endpoints using Postman for efficient development and debugging.
+
+---
 
 ### 2. Leveraging Informatics for Promoting Healthy Lifestyle Choices
 
 The project "Leveraging Informatics for Promoting Healthy Lifestyle Choices" focuses on utilizing informatics tools and techniques to promote healthy lifestyle choices among individuals. By leveraging data analytics and digital platforms, this project aims to develop interventions and strategies to encourage and support healthy behaviors.
 
 Repository: [Leveraging Informatics for Promoting Healthy Lifestyle Choices](https://github.com/Varshithadavarapalli/Leveraging-Informatics-for-Promoting-Healthy-Lifestyle-Choices)
+
+## Technical Skills Gained:
+
+- **Informatics Tools:** Leveraged informatics tools for data collection, processing, and analysis.
+  
+- **Digital Platforms:** Developed interventions and strategies using digital platforms to promote healthy behaviors.
+
+- **Data Visualization:** Created visualizations to communicate health information effectively.
+  
+- **Database Management:** Handled databases for storing and retrieving health data.
